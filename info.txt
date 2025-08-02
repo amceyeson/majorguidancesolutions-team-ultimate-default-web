@@ -1,3 +1,5 @@
+Again git Commit One
+
 This is a critical message that I'm going to ammend into the previous commit along with this new file.
 
 Commit #2 during squash activity
